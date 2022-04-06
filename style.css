@@ -1,0 +1,39 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ddf3f5;
+}
+
+#projects {
+  background-color: #ddf3f5;
+}
+
+#projects .card:hover {
+  background-color: #ddf3f5;
+  cursor: pointer;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#follow {
+  text-align: center;
+  background-color: white;
+  padding: 0;
+}
+
+#follow ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+#follow li {
+  font-size: 2em;
+  margin: 0 10px;
+}
+
+#follow li a {
+  color: black;
+}
